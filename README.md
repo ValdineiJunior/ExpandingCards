@@ -9,7 +9,7 @@
 Expanding cards
 
 <p align="center">
-  <a href="- https://valdineijunior.github.io/01Project/">
+  <a href="https://valdineijunior.github.io/01Project/">
     <img alt="01Project" src="https://github.com/ValdineiJunior/01Project/blob/main/Layout.png" alt="screenshot" width="100%">
   </a>
 </p>
