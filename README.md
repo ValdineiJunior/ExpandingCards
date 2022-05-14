@@ -16,6 +16,7 @@
 ### 💻 Live Preview
 
 - <a href="https://valdineijunior.github.io/01Project/" target="_blank">
+  <a href="https://instagram.com" target="_blank">
   Expanding cards
   </a>
 
