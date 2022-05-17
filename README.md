@@ -1,4 +1,4 @@
-# 01Project
+# Expending cards
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,15 +8,15 @@
 ### 📱 Preview
 Expending cards
 <p align="center">
-  <a href="https://valdineijunior.github.io/01Project/">
-    <img alt="01Project" src="https://github.com/ValdineiJunior/01Project/blob/main/Layout.png" alt="screenshot" width="100%">
+  <a href="https://valdineijunior.github.io/Expendingcards/">
+    <img alt="01Project" src="https://github.com/ValdineiJunior/Expendingcards/blob/main/Layout.png" alt="screenshot" width="100%">
   </a>
 </p>
 
 ### 💻 Live Preview
 
-- https://valdineijunior.github.io/01Project/
-
+- https://valdineijunior.github.io/Expendingcards/
+- 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
