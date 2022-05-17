@@ -1,4 +1,4 @@
-# Expending cards
+# Expending Cards
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,14 +8,14 @@
 ### 📱 Preview
 Expending cards
 <p align="center">
-  <a href="https://valdineijunior.github.io/Expendingcards/">
-    <img alt="01Project" src="https://github.com/ValdineiJunior/Expendingcards/blob/main/Layout.png" alt="screenshot" width="100%">
+  <a href="https://valdineijunior.github.io/ExpendingCards/">
+    <img alt="01Project" src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png" alt="screenshot" width="100%">
   </a>
 </p>
 
 ### 💻 Live Preview
 
-- https://valdineijunior.github.io/Expendingcards/
+- https://valdineijunior.github.io/ExpendingCards/
 - 
 ## 🚀 Tecnologias
 
