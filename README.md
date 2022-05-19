@@ -1,20 +1,22 @@
-# 01Project
-### 📱 Preview
-Expanding cards
-
-<p align="center">
-  <img alt="01Project" src="https://github.com/ValdineiJunior/01Project/blob/main/Layout.png" alt="screenshot" width="100%">
-</p>
-
-### 💻 Live Preview
-
-- https://valdineijunior.github.io/01Project/
+# Expending Cards
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+### 📱 Preview
+Expending cards
+<p align="center">
+  <a href="https://valdineijunior.github.io/ExpandingCards/">
+    <img alt="01Project" src="https://github.com/ValdineiJunior/ExpandingCards/blob/main/Layout.png" alt="screenshot" width="100%">
+  </a>
+</p>
+
+### 💻 Live Preview
+
+- https://valdineijunior.github.io/ExpendingCards/
+- 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
