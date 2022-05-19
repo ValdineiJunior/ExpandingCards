@@ -8,8 +8,8 @@
 ### 📱 Preview
 Expending cards
 <p align="center">
-  <a href="https://valdineijunior.github.io/ExpendingCards/">
-    <img alt="01Project" src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png" alt="screenshot" width="100%">
+  <a href="https://valdineijunior.github.io/ExpandingCards/">
+    <img alt="01Project" src="https://github.com/ValdineiJunior/ExpandingCards/blob/main/Layout.png" alt="screenshot" width="100%">
   </a>
 </p>
 
